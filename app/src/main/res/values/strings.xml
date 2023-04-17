@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string name="ColorLabel">Color</string>
+    <string name="ColorResult">Your Selection</string>
+    <string-array name="color_name">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+</resources>
